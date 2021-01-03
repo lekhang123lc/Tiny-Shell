@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1604225042 source:d:\onedrive\c++\shell\lib.cpp
+	<bits/stdc++.h>
+	<Windows.h>
+
+1606666191 source:d:\onedrive\c++\shell\main.cpp
+	<bits/stdc++.h>
+	<Windows.h>
+	"lib.cpp"
+	"print.cpp"
+	"command.cpp"
+
+1604254558 d:\onedrive\c++\shell\lib.cpp
+	<direct.h>
+	<unistd.h>
+	<dirent.h>
+	<sys/types.h>
+
+1606731449 d:\onedrive\c++\shell\command.cpp
+
+1606364613 d:\onedrive\c++\shell\print.cpp
+
+1609684635 source:d:\c++\shell\main.cpp
+	<bits/stdc++.h>
+	<signal.h>
+	<windows.h>
+	"lib.cpp"
+	"print.cpp"
+	"resource.cpp"
+	"command.cpp"
+
+1609686119 d:\c++\shell\lib.cpp
+	<direct.h>
+	<unistd.h>
+	<dirent.h>
+	<sys/types.h>
+
+1609343568 d:\c++\shell\print.cpp
+
+1609688820 d:\c++\shell\command.cpp
+
+1609343832 d:\c++\shell\resource.cpp
+
+1609684635 source:d:\university\it3070_operating_system\tiny-shell\main.cpp
+	<bits/stdc++.h>
+	<signal.h>
+	<windows.h>
+	"lib.cpp"
+	"print.cpp"
+	"resource.cpp"
+	"command.cpp"
+
+1609686119 d:\university\it3070_operating_system\tiny-shell\lib.cpp
+	<direct.h>
+	<unistd.h>
+	<dirent.h>
+	<sys/types.h>
+
+1609343568 d:\university\it3070_operating_system\tiny-shell\print.cpp
+
+1609343832 d:\university\it3070_operating_system\tiny-shell\resource.cpp
+
+1609688820 d:\university\it3070_operating_system\tiny-shell\command.cpp
+
