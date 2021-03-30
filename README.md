@@ -1,8 +1,9 @@
-# A tiny shell with a few functions about process
+# Tiny-Shell
+Tiny Shell for Windows. Use command "help" for detail.
 
-## Environment
-- Language: C++, complier GNU C++ 14, IDE: CodeBlocks 20.07 MinGW
-- Operating system: Windows 10 1909
+# Environment
+-	Language: C++, GNU C++ 14, IDE: CodeBlock 20.07 MinGW
+-	Oparating System: Windows 10 1909
 
 ## Commands
 
