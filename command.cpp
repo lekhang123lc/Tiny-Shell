@@ -207,23 +207,6 @@ public:
     }
 
     void foreMode(Process& process){
-//        STARTUPINFO si;
-//        PROCESS_INFORMATION pi;
-//        ZeroMemory(&si, sizeof(si));
-//        si.cb = sizeof(si);
-//        CreateProcess("stop.exe", NULL, NULL, NULL, FALSE, 0, NULL, NULL, &si, &pi );
-//        HANDLE arrayProcess[2];
-//        arrayProcess[0] = process.pi.hProcess;
-//        arrayProcess[1] = pi.hProcess;
-//        WaitForMultipleObjects(2, arrayProcess, FALSE, INFINITE);
-//
-//        DWORD status[2];
-//        GetExitCodeProcess(process.pi.hProcess, &status[0]);
-//        GetExitCodeProcess(pi.hProcess, &status[1]);
-//        if ( status[0] ) TerminateProcess(process.pi.hProcess, 0);
-//        if ( status[1] ) TerminateProcess(pi.hProcess, 0);
-
-
         while(1){
             string signal;
             getline(cin,signal);
